@@ -1,0 +1,16 @@
+*.user
+*.suo
+*userssocache
+*.sln.docstates
+
+
+ehthumbs.db
+Thumbs.db
+
+.vs
+.vscode
+.idea
+.nuget
+
+\obj
+\bin
