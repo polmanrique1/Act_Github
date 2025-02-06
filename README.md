@@ -1,1 +1,1 @@
-En aquest grup som en pol i el iker i el Molatron prime
+En aquest grup som en pol i el iker i el Molatron prime, i Daniel "Dynaspin" Espinatron
