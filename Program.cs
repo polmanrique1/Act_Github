@@ -8,7 +8,7 @@ class Program
          // Crear llistes per a cada tipus de vehicle
         List<Vaixell> vaixells = new List<Vaixell>
         {
-            new Vaixell("Explorer", "OceanX", 2015, 45, 12000),
+            new Vaixell("Chiquitito", "Barquito", 2015, 45, 12000),
             new Vaixell("Voyager", "BlueWave", 2020, 60, 15000)
         };
 
